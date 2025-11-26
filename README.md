@@ -43,21 +43,13 @@ These tools are designed for reproducible processing of single-color motion imag
 
 ### **IntestiTrack**
 1. Open `IntestiTrack.ipynb` in Jupyter
-2. Change `example_data/single_color/` to the required data path
-3. Run all cells to:
-   - segment images  
-   - generate and prune skeletons  
-   - compute angular deformation  
-   - visualize motion  
+2. Change path="......" to the required data path
+3. Run all cells
 
 ### **CaMotion**
-1. Add dual-color imaging data to `example_data/dual_color/`
-2. Open `CaMotion.ipynb`
-3. Run all cells to:
-   - compute correlation-based motion  
-   - detect calcium peaks  
-   - align traces  
-   - plot normalized averages  
+1. Open `CaMotion.ipynb`
+2. Change path="......" to the required data path
+4. Run all cells
 
 ---
 
