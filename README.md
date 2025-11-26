@@ -6,7 +6,6 @@ IDT contains two complementary analysis pipelines:
 
 - **IntestiTrack** — skeleton-based tracking of intestinal motion from time-lapse autofluorescence recordings  
 - **CaMotion** — correlation-based motion quantification and alignment of calcium transients with movement
-
 These tools are designed for reproducible processing of single-color motion imaging and dual-color (calcium + motion) recordings.
 The full methods are described in Pampaloni et al. ....
 ---
