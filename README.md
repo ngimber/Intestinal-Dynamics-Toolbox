@@ -55,6 +55,6 @@ The full methods are described in Pampaloni et al., 2026 – A novel enteric pac
 ---
 
 ## 📚 Citing IDT
-If you use IDT in your research, please cite:
-Pampaloni et al. ...
+If you use IDT in your research, please cite this repository and:
+Pampaloni et al., 2026 – A novel enteric pacemaker activity in Drosophila
 
